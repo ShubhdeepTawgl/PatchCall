@@ -1,0 +1,2738 @@
+[
+  {
+    "speaker": "spk_0",
+    "dialogue": "Hello, yes, good morning sir.",
+    "startTime": 0,
+    "endTime": 19.825
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "hi vikram how are you development",
+    "startTime": 21.725,
+    "endTime": 24.465
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "I am fine, yes sir.",
+    "startTime": 26.125,
+    "endTime": 51.415
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "I am audible.",
+    "startTime": 66.15,
+    "endTime": 66.81
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Sir is coming now sir is coming right now sound is coming sir was not coming earlier",
+    "startTime": 69.284996,
+    "endTime": 74.345
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "hello hello",
+    "startTime": 84.17,
+    "endTime": 85.149994
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Development",
+    "startTime": 95.13,
+    "endTime": 95.63
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes sir",
+    "startTime": 97.13,
+    "endTime": 97.78999
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "yes audible",
+    "startTime": 98.865,
+    "endTime": 100.564995
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "but",
+    "startTime": 102.905,
+    "endTime": 103.405
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "what clear voice is not coming in",
+    "startTime": 105.744995,
+    "endTime": 108.005
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "you have some network issue or something else is there because I have normally network is ok my network is ok",
+    "startTime": 113.34,
+    "endTime": 121.74
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Sir, but",
+    "startTime": 121.74,
+    "endTime": 122.619995
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Your side may be having some network issues.",
+    "startTime": 122.619995,
+    "endTime": 124.32
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "No sir, it is mine.",
+    "startTime": 124.46,
+    "endTime": 125.439995
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "so now ok and now also voice is breaking out",
+    "startTime": 125.795,
+    "endTime": 129.33499
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "It's a perfect now coming clear sir",
+    "startTime": 130.275,
+    "endTime": 133.415
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok voice is clear right ok development tell me about yourself",
+    "startTime": 135.715,
+    "endTime": 139.47499
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Sir I am Vikas Khare from district Sadarpur and I am working with Canon premium partner Aditi Enterprises and 2014 as a service engineer senior service engineer",
+    "startTime": 139.47499,
+    "endTime": 155.325
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok",
+    "startTime": 158.44499,
+    "endTime": 158.94499
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "and my working as a handle my service team spare part management call management like all over service fight we handle",
+    "startTime": 159.965,
+    "endTime": 177.51001
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "and",
+    "startTime": 179.49,
+    "endTime": 179.99
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "By the way, basically sometimes sales tax also makes sense.",
+    "startTime": 181.97,
+    "endTime": 187.575
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes, I have a good job profile",
+    "startTime": 188.915,
+    "endTime": 195.63501
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes sir",
+    "startTime": 195.63501,
+    "endTime": 198.32
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "What is your job profile as a Service Engineer in Aditi Enterprises?",
+    "startTime": 198.94,
+    "endTime": 205.12
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "as a basically is a service manager",
+    "startTime": 206.38,
+    "endTime": 209.625
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "service manager ok",
+    "startTime": 210.505,
+    "endTime": 211.885
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Such a",
+    "startTime": 212.105,
+    "endTime": 212.585
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So you are handling a team in your organization where you are working now.",
+    "startTime": 212.585,
+    "endTime": 217.065
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "and",
+    "startTime": 217.065,
+    "endTime": 217.465
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "how many members of the team are you handling now",
+    "startTime": 217.465,
+    "endTime": 221.085
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Sir our office is 555 engineers 5 service engineers ok and then right now I mean we have six service engineers back sir and rest of them service service management everything I see",
+    "startTime": 222.84001,
+    "endTime": 243.965
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So all are reporting to you right.",
+    "startTime": 244.825,
+    "endTime": 247.08499
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Ok I",
+    "startTime": 248.105,
+    "endTime": 250.17
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "I'm actually asking you",
+    "startTime": 250.17,
+    "endTime": 251.95
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Ok ok.",
+    "startTime": 252.89,
+    "endTime": 253.53
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "all are reporting to you or something you are also as an engineer",
+    "startTime": 253.53,
+    "endTime": 258.59
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes sir",
+    "startTime": 259.61002,
+    "endTime": 260.01
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "thank you",
+    "startTime": 260.01,
+    "endTime": 260.51
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "you're okay",
+    "startTime": 261.61002,
+    "endTime": 262.36002
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "I am asking actually development you are they are all 6 or 7 members that you are telling that you have some engineers in your organization in unique enterprises so all 6 are reporting to you or you are also as an engineer working there.",
+    "startTime": 264.525,
+    "endTime": 280.63
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "No, sir, all the engineers who report to me, if I have an issue, then I report to my boss.",
+    "startTime": 281.25,
+    "endTime": 290.07
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Ok they are reporting to you right",
+    "startTime": 290.625,
+    "endTime": 292.965
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes sir",
+    "startTime": 293.10498,
+    "endTime": 293.985
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok so tell me about the basic diameter of digital printing actually you can you can say also 0 geography of digital printing can you please explain on that",
+    "startTime": 293.985,
+    "endTime": 306.00497
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Basically the digital printing process first is the charging process after laser exposing process after developing process and after developing comes our secondary transfer process ok and then separation process and lastly fuser fuser process basically say amazon 7.",
+    "startTime": 309.82,
+    "endTime": 343.66
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Only",
+    "startTime": 343.74,
+    "endTime": 343.82
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "333 processes are there right",
+    "startTime": 343.82,
+    "endTime": 345.6
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "The G7 process",
+    "startTime": 346.54,
+    "endTime": 348.0
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So please explain that all 7 processes which are these 7 processes in digital printing",
+    "startTime": 349.455,
+    "endTime": 354.995
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "And first is the charging process these are charging corona wire 2 charge to charge the drum ok the drum is the drum is charged negative ok negative voltage and secondary is a laser explosive laser beam 4 color cmy and k to neutralize the drum and developing again and developing which is the process in the developing process which is our discharge area of the drum is tonal content of the cmynk is fixed by going to our drum ok and then and then again process intermediate transfer belt drumb which means whatever the print that will be made on our dump will be transferred to itbp belt sir itbp belt will be transferred to itbp",
+    "startTime": 356.495,
+    "endTime": 440.095
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Ok right",
+    "startTime": 440.795,
+    "endTime": 441.355
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "In the secondary transfer process, our paper is paper and the itbp belt is fixed on paper after touching each other.",
+    "startTime": 441.355,
+    "endTime": 452.80002
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "It'll be again",
+    "startTime": 453.02002,
+    "endTime": 454.24002
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "The process is our separation in the separation our paper will be negatively charged and whatever is our image which is the visible image will come to our paper and output through the freezer.",
+    "startTime": 454.46,
+    "endTime": 471.845
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok",
+    "startTime": 472.705,
+    "endTime": 473.205
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Next basically this is the 7 step all I have described now.",
+    "startTime": 479.09,
+    "endTime": 487.83002
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Your ok what is in charging process can you please explain a little bit more on that process that charging process",
+    "startTime": 488.85,
+    "endTime": 496.70502
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "apply the high dc voltage to the charging corona tungsten wire ok that is the gold coated",
+    "startTime": 501.725,
+    "endTime": 513.11
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok",
+    "startTime": 514.13,
+    "endTime": 514.63
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "charger negative charge to the drum by discharge of wire the charging corona charger control plate it makes charge it makes charge on the surface on the drum even photo conductor is prepared 4 color cmy and k",
+    "startTime": 515.33,
+    "endTime": 550.32495
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "what",
+    "startTime": 558.54,
+    "endTime": 559.04
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "is sir breaking the sound right now",
+    "startTime": 564.3,
+    "endTime": 566.72
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Exposure process that is you can speak in Hindi also if you are comfortable in Hindi to explain more on that not all topics you can explain in Hindi also ok if you are comfortable in the all topics gee here that means and well if you can explain in Hindi that means gee gee and well then you please do in Hindi there is no challenge no you tell so explore process how does it happen no tell that breaking",
+    "startTime": 567.42,
+    "endTime": 601.345
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "The exposure of ok ok sir ok yes in the exposure process what happens is that the laser beam that we have is our cyan viganta yellow black beam will go and touch us on the drum on the drum, so that is our drum on the negative charge as much as the drum on the charge on the negative charge and wherever the drum cm by k laser beam will hit wherever it will discharge you that much space will neutralize what is it.",
+    "startTime": 601.885,
+    "endTime": 640.97003
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Basically I ask in Hindi Ji sound is coming My Vikas Ji",
+    "startTime": 641.03,
+    "endTime": 651.67
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes, yes, sir, it's coming now.",
+    "startTime": 651.67,
+    "endTime": 653.465
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Ok so developing right you are ok that in exposure process what about what is sorry development process and what is the role of the developer in that.",
+    "startTime": 653.465,
+    "endTime": 667.325
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "The development which is the development process which is our development and which is the drum unit which is our development toner which is our development toner which is our developer and which is our basically developer we use event for print quality and vibrate for print quality we use developer that is our print should look bright should look very signalling so we use developer without developer our machine does not have the quality ok and which we mean where the laser beam falls on the bumper so that is the amount of area that the image will create dump that is the amount of area discharge and that will be our contact with the developer so that is the toner which is our development toner that will be our fix on top of the developer that is the image image on top of the drum minute that will form the dump that much of space.",
+    "startTime": 669.27,
+    "endTime": 726.07996
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "The fix will be ok sir what is the basic process of the developer what is the work of the developer what is the meaning of what the developer is doing in this process.",
+    "startTime": 727.18,
+    "endTime": 737.51996
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "In this process sir basically developer so that means I know basically that sir print quality and signing for all this thing we use developer hello.",
+    "startTime": 742.785,
+    "endTime": 795.02
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Vikas ji please tell me.",
+    "startTime": 809.145,
+    "endTime": 811.565
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Sounds like yes sir just stopped at the beach.",
+    "startTime": 812.1,
+    "endTime": 815.48
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Okay, it's coming now.",
+    "startTime": 815.94,
+    "endTime": 817.56
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes, it's coming right now.",
+    "startTime": 817.7,
+    "endTime": 818.69995
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes sir, so developer's main, you tell me a little bit about why you use",
+    "startTime": 818.69995,
+    "endTime": 827.21497
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Sir, your voice is breaking.",
+    "startTime": 839.13,
+    "endTime": 841.15
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "There is some issue with the network, do you have a good network here or what do you mean that I don't have a network at all?",
+    "startTime": 844.01,
+    "endTime": 853.0383
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes No I also have actually I mean the router is the same device connected I have that also my mobile from the rest of the mobile network I am not using ok",
+    "startTime": 853.0383,
+    "endTime": 865.66003
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So right now it's okay my voice is coming to you right now",
+    "startTime": 873.0,
+    "endTime": 875.34
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes, it is coming, sir.",
+    "startTime": 875.48004,
+    "endTime": 876.915
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So I am asking what is the main work of the developer basic fund that is also transferred on the drum from the development unit or not.",
+    "startTime": 878.83496,
+    "endTime": 887.415
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Development which is a combination of both our development which is our developer + toner which is the development unit which we use in our machines is fixed on our dumku sir.",
+    "startTime": 890.45,
+    "endTime": 906.085
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "The app is building on App Reigning Dum Dum Dum",
+    "startTime": 909.905,
+    "endTime": 915.28503
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "A second time, sir.",
+    "startTime": 917.55,
+    "endTime": 918.51
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "If the phone is on the beach",
+    "startTime": 918.51,
+    "endTime": 920.76996
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "yes sorry sir sorry sir one second i will check if my network is having so much problem",
+    "startTime": 925.55,
+    "endTime": 929.865
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes yes please",
+    "startTime": 929.865,
+    "endTime": 932.845
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "hello please",
+    "startTime": 940.985,
+    "endTime": 942.52496
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes Yes",
+    "startTime": 943.225,
+    "endTime": 943.96497
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes sir, it's getting clearer now.",
+    "startTime": 944.345,
+    "endTime": 949.26
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "hello hello just",
+    "startTime": 974.01996,
+    "endTime": 1000.13995
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Now I'm audible",
+    "startTime": 1003.95996,
+    "endTime": 1004.86
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes, yes, sir is coming right now, the beach is cut off.",
+    "startTime": 1005.39996,
+    "endTime": 1008.54
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Okay, right now, if we are talking about the developer process, both the developer and the toner are transferring drumish, so what is making a difference in that process?",
+    "startTime": 1008.68,
+    "endTime": 1038.57
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "And developer use sir we mean our toner which means melting no that is melting and developer signalling which comes basically for copy quality sir I know that developers use for this.",
+    "startTime": 1038.95,
+    "endTime": 1056.315
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok",
+    "startTime": 1056.855,
+    "endTime": 1057.355
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "G through a melting point and which signifies the color quality in printing, for this we use the developer.",
+    "startTime": 1057.735,
+    "endTime": 1065.72
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Ok ok right left it next can you please explain a little bit on that intermediate transfer process that process we have",
+    "startTime": 1066.1799,
+    "endTime": 1076.145
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "So itbp belt which is our itbp belt, we actually use in the color machine, so the print that we see on our drum, which will be visible, which will be transferred on our drum, how our itbp belt actually remains on our drum, and the itbp belt remains in touch with each other's surface, which will be transferred to our itpb belt whenever we take the drum round, and after our transfer to the itpb belt, the next process is the paper one, then the next one.",
+    "startTime": 1076.525,
+    "endTime": 1115.665
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Otherwise, this is what is being transferred from the drum unit to the itbp unit, both the toner or the developer, which you said is happening because of the touch or some other process is being used inside.",
+    "startTime": 1115.91,
+    "endTime": 1128.965
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "No no sir that one which is our charging process which we mean secondary first transfer which we mean transfer due to negative positive charge not due to touch which is our charging process through charging process goes over our it b belt.",
+    "startTime": 1128.965,
+    "endTime": 1152.71
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "How to make the charging process",
+    "startTime": 1153.1699,
+    "endTime": 1155.6699
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Who is our who is our drummer who will be the image of syan mizanta yellow black",
+    "startTime": 1156.53,
+    "endTime": 1164.725
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "transfer",
+    "startTime": 1167.4249,
+    "endTime": 1167.905
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "to itbp belt through first transfer ruler that is our roller inside itbp belt that is itbp belt through first transfer roller that is our itbp over itbp belt.",
+    "startTime": 1167.905,
+    "endTime": 1182.9401
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So where does the first transfer roller get the power from?",
+    "startTime": 1183.3201,
+    "endTime": 1186.14
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "first transfer roller first transfer roller which is our itv means hpt through sir",
+    "startTime": 1187.665,
+    "endTime": 1194.5651
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "hpt what is the full form of hpt",
+    "startTime": 1194.785,
+    "endTime": 1196.965
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "High Voltage",
+    "startTime": 1197.665,
+    "endTime": 1198.5651
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "and from where we are getting the power for the charging unit",
+    "startTime": 1200.61,
+    "endTime": 1204.39
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Sir, I'm a little",
+    "startTime": 1205.49,
+    "endTime": 1206.85
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Where does the charging unit get its power from?",
+    "startTime": 1206.85,
+    "endTime": 1208.95
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "charging unit to charging unit sir our which is hpt high voltage pcb",
+    "startTime": 1209.09,
+    "endTime": 1215.4299
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "That is also the same pcb we are using to supply the voltage for both the parts like first trust roller and then charging unit as a.",
+    "startTime": 1215.605,
+    "endTime": 1228.985
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "No basically sir in our channel means the pcb is given this is our itbp is given separate pcb for belt and separate for drum charging ok for this they have kept separate hpt separate hpt means combined 3 part into 4 part ok right right",
+    "startTime": 1229.37,
+    "endTime": 1250.815
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok explain the next process that you told on",
+    "startTime": 1251.195,
+    "endTime": 1255.9349
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Sir, our separation is the next process.",
+    "startTime": 1256.35,
+    "endTime": 1259.8099
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Separation",
+    "startTime": 1260.59,
+    "endTime": 1261.09
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes, the next process will be our separation.",
+    "startTime": 1262.6699,
+    "endTime": 1273.5549
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "The process is ok.",
+    "startTime": 1274.095,
+    "endTime": 1274.835
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "In the secondary transfer process, we mean whatever is our image on top of the itbp belt will be our transfer on top of the paper.",
+    "startTime": 1275.695,
+    "endTime": 1286.14
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Sir, how is it going to be?",
+    "startTime": 1286.56,
+    "endTime": 1291.8201
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "This is our sir, our itbp belt, which has a secondary transfer ruler at the bottom, through which our paper will remain on the paper, we will remain negatively charged, okay, and due to being negatively charged, whatever our print it will also remain on the belt will come to us.",
+    "startTime": 1294.12,
+    "endTime": 1317.06
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Ok and the next process.",
+    "startTime": 1318.56,
+    "endTime": 1324.9801
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "In the next future process, whatever will be our image fix on paper, whatever will be our image fix on paper, our freezer process is actually called fixing assembly.",
+    "startTime": 1325.9149,
+    "endTime": 1349.4299
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "What is the temperature that you use now this is whatever you are explaining all the processes in reference with the color product or in black and white products.",
+    "startTime": 1350.13,
+    "endTime": 1359.785
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Sir, this is what I am basically describing color color for like color because",
+    "startTime": 1360.405,
+    "endTime": 1367.285
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes please thank you.",
+    "startTime": 1367.285,
+    "endTime": 1368.5851
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Because in black and white, Canon has just started, in black and white, it has just started with the belt. Basically, they were running with the toner and drums.",
+    "startTime": 1368.9299,
+    "endTime": 1379.5099
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Perfect so the temperature of the fixing unit is in what range is the range of fusing temperature fixing temperature",
+    "startTime": 1380.9551,
+    "endTime": 1388.015
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "I think temperature actually sir don't have knowledge of it I mean maybe I",
+    "startTime": 1388.795,
+    "endTime": 1395.615
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "No issue no issue",
+    "startTime": 1397.89,
+    "endTime": 1398.93
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "G G",
+    "startTime": 1398.93,
+    "endTime": 1399.67
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok what do you mean by the calibration why are we doing the calibration in our engines of color machines",
+    "startTime": 1400.4501,
+    "endTime": 1407.91
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Calabration what we do that is our color basically we call it we use it for color matching sir that is our input color that is our input whether the same color is coming in the output or not so in our machine this is what we call adjust gradation.",
+    "startTime": 1409.3301,
+    "endTime": 1426.545
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "What are u talking about",
+    "startTime": 1429.4601,
+    "endTime": 1430.5
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Adjust Graduation",
+    "startTime": 1430.5,
+    "endTime": 1431.48
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Adjust Graduation",
+    "startTime": 1432.3401,
+    "endTime": 1433.86
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Okay, because we don't have a calibration option.",
+    "startTime": 1433.86,
+    "endTime": 1439.48
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "is",
+    "startTime": 1439.78,
+    "endTime": 1440.28
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "So in the graduation that is our process that our color if we have given the color if we have given the print out if we are seeing the output whatever is coming out of our machine that is the input and the output is the difference then that is our color for proper matching through the page sensor we do the adjust graduation so that our input and output color is not hundred then 99.9% so much match was done ok.",
+    "startTime": 1440.5801,
+    "endTime": 1472.315
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "so color matching for color matching we are using the calibration tool",
+    "startTime": 1475.495,
+    "endTime": 1479.0349
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Calibration by the way use adjustment calibration by the way you mean calculation by the way we basically use it for color matching.",
+    "startTime": 1480.0549,
+    "endTime": 1488.9099
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "What is the density balance G density balance like if our print light is coming dark from one side light is coming dark from one side no yes one of the print I have drawn a pattern let us say this is giving an example of megagenta color we have drawn a pattern no G of 13 by 19 printing size so from one side it is light from one side it is dark G in feeding direction right",
+    "startTime": 1491.0499,
+    "endTime": 1515.19
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "G G",
+    "startTime": 1515.19,
+    "endTime": 1515.99
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So what is the cause and how can we overcome the issue or what is the cause of that problem because of that problem machine.",
+    "startTime": 1515.99,
+    "endTime": 1524.41
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "If it means that if we take out any printout from our magicanta or any we will take out a pattern if it is light on top or dark on the bottom then for that we can basically do one of the most late first we can do some adjustment of it once we can do gregation of the color that is the color quality that is the density we can do adjustment of the color if it is not even fine then we will go to the hardware whatever is the hardware then after processing all the software we will go to the hardware to see if there is some internal fault of our machine.",
+    "startTime": 1524.95,
+    "endTime": 1563.995
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So the first thing we'll check is the hardware.",
+    "startTime": 1567.12,
+    "endTime": 1569.54
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "First of all, we will check the laser, whether there is dust on our laser, whether there is half of our light coming, half of the dark coming, first of all, we will check the laser, okay, whether there is dust on our laser, whether there is toner powder on top of the laser, okay, then we will check all these things.",
+    "startTime": 1570.28,
+    "endTime": 1626.0801
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok jee",
+    "startTime": 1628.14,
+    "endTime": 1628.88
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Good registration I have two types of registration in the machine.",
+    "startTime": 1629.74,
+    "endTime": 1635.36
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "the registration of the registration",
+    "startTime": 1642.095,
+    "endTime": 1643.5349
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Let me clear the registration.",
+    "startTime": 1643.5349,
+    "endTime": 1646.995
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "sir registration of me basically",
+    "startTime": 1650.11,
+    "endTime": 1653.25
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Once registration what happens how to register or for pin matching or looping registration on looping registration what happens.",
+    "startTime": 1653.79,
+    "endTime": 1663.33
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Sir",
+    "startTime": 1666.615,
+    "endTime": 1666.7749
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "We mean what I'm saying to Canon because calling means I've never done it, I've never done it in Canon means I've never needed a registration, I mean I haven't needed anything until now, but the only time I needed it was when we had a color mismatch.",
+    "startTime": 1666.7749,
+    "endTime": 1684.83
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "It does not have to be written in color.",
+    "startTime": 1684.83,
+    "endTime": 1687.71
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes",
+    "startTime": 1687.71,
+    "endTime": 1687.95
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "That I will come to that first you are saying that I am going to the paper one on this which is not the registration unit in the paper registration unit ad unit.",
+    "startTime": 1687.95,
+    "endTime": 1695.6951
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "No no no no sir registration unit stays sir",
+    "startTime": 1695.8351,
+    "endTime": 1699.275
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So he is asking for the same, tell him what his work is.",
+    "startTime": 1699.275,
+    "endTime": 1702.29
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "The basic work of the registration unit is that if our paper has a length that is the length of our paper, if our paper is coming out of a 4 size, then its length is properly matched or then after coming out, the size of the paper is large detecting small detecting, then we can check it through the registration ruler.",
+    "startTime": 1703.41,
+    "endTime": 1724.145
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "What happens if he's detecting a large",
+    "startTime": 1726.445,
+    "endTime": 1728.785
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "If in the registration ruler, if the bigger one is detecting or if e 4 is detecting, then e 5 is detecting, then the registration roller can be checked by going into service mode and doing this service activity.",
+    "startTime": 1730.3301,
+    "endTime": 1749.1549
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "There are if not paper you are telling like paper a 4 of a 5 detecting then trade detects registration unit does a little bit.",
+    "startTime": 1749.1549,
+    "endTime": 1757.0149
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "No sir like what happens to us that like if we ever printout a 4 size like output will come then the machine will tell paper size mismatch because our registration sensor which is the registration unit is not able to detect that we have given a 4 size paper from there it is not able to detect the proper length which is timing.",
+    "startTime": 1758.4199,
+    "endTime": 1788.8
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So what is the job of the registration holder if paper detection is censoring what is the registration holder doing?",
+    "startTime": 1789.02,
+    "endTime": 1796.32
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "The registration of solar",
+    "startTime": 1797.1,
+    "endTime": 1798.5599
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Doesn't seem to register, etc.",
+    "startTime": 1798.975,
+    "endTime": 1800.455
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes I am",
+    "startTime": 1800.455,
+    "endTime": 1801.1349
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Sir, I mean, I have read, I have read, I work, I do not remember at all.",
+    "startTime": 1801.1349,
+    "endTime": 1807.0549
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.",
+    "startTime": 1807.0549,
+    "endTime": 1827.12
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "GG Registration Roller basically",
+    "startTime": 1827.795,
+    "endTime": 1832.2151
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Sir",
+    "startTime": 1846.37,
+    "endTime": 1846.87
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "I can't remember the registration.",
+    "startTime": 1850.45,
+    "endTime": 1852.33
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "no no",
+    "startTime": 1852.33,
+    "endTime": 1853.11
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes it is",
+    "startTime": 1853.33,
+    "endTime": 1853.73
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "What do you mean by color registration?",
+    "startTime": 1853.73,
+    "endTime": 1856.7899
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Color registration is basically what we do in our machine that our color mismatch becomes color mismatch or any of our double double type print starts to come out in the output, for that we have a basically one of our machine setting adjust the color mismatch one thing we can do the other thing by cleaning the pay sensor assembly and we can also check the registration value which is given by the service mode inside the color.",
+    "startTime": 1859.135,
+    "endTime": 1897.0349
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Why do we do so little?",
+    "startTime": 1898.695,
+    "endTime": 1900.315
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "This is if all the parts of the machine, whatever part hardware is being used, if it is 100% proper, if it is working, then we do not need to tamper with the registration color setting, sir, if we have some issue with our ITP belt in some part, if there is a problem in it, then we have to manually go to the color registration match, to correct the copy quality, we have to adjust it more or less and mix the color.",
+    "startTime": 1903.74,
+    "endTime": 1935.43
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "No, I'm talking about color matching, I'm talking about color registration.",
+    "startTime": 1935.65,
+    "endTime": 1939.81
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "G G",
+    "startTime": 1939.81,
+    "endTime": 1940.55
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "What is color registration?",
+    "startTime": 1940.8151,
+    "endTime": 1945.155
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Registration color",
+    "startTime": 1947.2151,
+    "endTime": 1948.1951
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "I don't understand sir.",
+    "startTime": 1951.535,
+    "endTime": 1953.0751
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "When I have printed a text like yours, there are four colors in it, there are three colors in the text, so I am coming to the same place, one color is coming out, call it color registration.",
+    "startTime": 1954.79,
+    "endTime": 1969.115
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes, yes, I am who I am",
+    "startTime": 1969.115,
+    "endTime": 1970.555
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "What it is, how it happens, why it happens",
+    "startTime": 1970.555,
+    "endTime": 1973.295
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "This is the color registration, sir, this is the quality of the color that we mean, which is basically our graduation, so in that, we get a graph of all four colors.",
+    "startTime": 1975.1951,
+    "endTime": 2010.44
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Then you are going to color matching if you are talking about light dark it is not a matter of color registration it is a matter of color matching you are trying to do density balance.",
+    "startTime": 2010.82,
+    "endTime": 2019.0
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "G G",
+    "startTime": 2019.1399,
+    "endTime": 2019.8799
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Registration color is like I told you that if you have text or an image, its colors are getting out.",
+    "startTime": 2021.725,
+    "endTime": 2031.5651
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Joe G",
+    "startTime": 2031.5651,
+    "endTime": 2032.605
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes, it's about telling you how things happen, and why they happen.",
+    "startTime": 2032.605,
+    "endTime": 2039.7999
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Color",
+    "startTime": 2040.5,
+    "endTime": 2041.0
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "registration color registration clear color registration this is the color registration I have",
+    "startTime": 2043.54,
+    "endTime": 2061.9849
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Basically what is the color registration we do for shifting what is our tax shift what is our tax shift we do for that basically what is the color registration we do.",
+    "startTime": 2072.75,
+    "endTime": 2091.645
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "How do you do it, what do you do?",
+    "startTime": 2092.0598,
+    "endTime": 2095.2
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "There are color registration for color registration so that means we are the one who takes out the pg 10, we are the one who takes out a pg 10 in our machine which will contain all the colors.",
+    "startTime": 2097.5,
+    "endTime": 2113.485
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok",
+    "startTime": 2115.545,
+    "endTime": 2116.045
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "The color that comes out of our pg 10 is pg 6 pg 5 pg 10 so in that our color is coming proper is not coming up is not shifting up is not happening that is what we can check.",
+    "startTime": 2117.89,
+    "endTime": 2127.83
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So why do they come?",
+    "startTime": 2128.93,
+    "endTime": 2130.47
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "It is basically this which is our this is sir which is our registration which is registration unit if not proper work.",
+    "startTime": 2133.835,
+    "endTime": 2148.6301
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "doing then these things come up sir this",
+    "startTime": 2148.6301,
+    "endTime": 2151.53
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Okay why paper jamming happens what are the reasons for paper jamming in a machine.",
+    "startTime": 2155.27,
+    "endTime": 2163.115
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "There are many issues of paper jamming, so basically the main main thing in this is that if we start, then we also get jammed because of the quality of the paper, if the quality of our paper is also not good, then jamming can also happen because of that, then we can also check our pickup ruler that his life has not been done or our proper sensor registration sensor.",
+    "startTime": 2164.335,
+    "endTime": 2214.69
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "majorly tell me three four you're",
+    "startTime": 2215.615,
+    "endTime": 2218.595
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Which is majorly the most of our machines that I have seen so far this is the most paper jam that we have in our machine one is our which is the pickup roller of the roller if it has a life it slips it slips it slips it slips it slips it slips it slips the most customer has a problem that the trace is not picking up the paper ok the machine is one so it is done and the other thing comes like if the customer gives 2 sided printing in 2 sided printing if the paper is thin or if the moisture is in the paper or if the gsm is less then the reason is 2 sided jam it is basically it is normal things are done here.",
+    "startTime": 2221.215,
+    "endTime": 2262.0698
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Ok no he is ok I am asking him why he is so tell me what are his reasons.",
+    "startTime": 2264.21,
+    "endTime": 2273.355
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Good paper paper jamming sir reason one is basically if we have a proper roller if it is not working, if we have a registration sensor installed in the beach, if the registration sensor is not working properly, if we are not able to take the paper deduction size, then also the paper will jam.",
+    "startTime": 2276.635,
+    "endTime": 2295.74
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok",
+    "startTime": 2296.28,
+    "endTime": 2296.78
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "And in the output if we have any fixing sensor which is the output delivery sensor if that is also what happens that sometimes the paper is moving, the size of the paper is getting smaller and smaller, the size of the lever is getting smaller and smaller, so if that also will not be able to detect the length of the proper paper, then still there is a paper jam issue.",
+    "startTime": 2298.84,
+    "endTime": 2368.77
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "What happens when the sensor is checked?",
+    "startTime": 2368.77,
+    "endTime": 2371.8901
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "To check the sensor sir means not manually, we can check it manually, so then we have the same sensor, so we can check it by shifting from one side to another.",
+    "startTime": 2371.8901,
+    "endTime": 2401.1602
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "If the sensor is fine, then",
+    "startTime": 2402.6602,
+    "endTime": 2404.2
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "If the sensor is fine, then sir, then the next step after that, we will see that if our sensor is working properly, then we will have to justify all the things related to it that if our sensor is working properly, then there will be some problem around it or there may be some problem on top of it that if our sensor is here, if the above sensor is also not working at that proper time, then also the jam will be reported.",
+    "startTime": 2405.22,
+    "endTime": 2433.6602
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok what do you mean by good humidity and temperature",
+    "startTime": 2434.76,
+    "endTime": 2439.6602
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Humility is what it is",
+    "startTime": 2440.9949,
+    "endTime": 2444.5747
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Humidity and temperature this is basically what we use because in our machine which comes in our machine comes in moisture problem ok which comes in moisture problem one is our paper paper yes.",
+    "startTime": 2445.2349,
+    "endTime": 2462.6
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "sir hello sorry yes yes yes yes cutting",
+    "startTime": 2466.6602,
+    "endTime": 2485.09
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Those who are talking about simplicity and temperature because whenever we do machine installation, first of all we check the environment humidity temperature there, all these things that our machine will be able to do proper work in this place or not.",
+    "startTime": 2487.4702,
+    "endTime": 2505.025
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "What are the ranges of humidity temperatures?",
+    "startTime": 2505.645,
+    "endTime": 2508.39
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Something about the humidity 65 to 75 something I can't remember confirming maybe",
+    "startTime": 2508.5498,
+    "endTime": 2516.0898
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok g and temperature",
+    "startTime": 2516.5498,
+    "endTime": 2518.65
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "and temperature in it.",
+    "startTime": 2519.8298,
+    "endTime": 2521.93
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "20",
+    "startTime": 2524.365,
+    "endTime": 2524.865
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "25 to something 38 or 40 something",
+    "startTime": 2528.365,
+    "endTime": 2535.585
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "A temperature of 40 degrees",
+    "startTime": 2536.5698,
+    "endTime": 2537.7898
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "No no sir 40 degree no sir 25 to our near 32 temperature that is all we can work on.",
+    "startTime": 2538.0898,
+    "endTime": 2548.99
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Ok and what is the problem with this, if the immunity and temperature are not right, then what are the issues that you can solve in the machine or related to the environment?",
+    "startTime": 2549.7952,
+    "endTime": 2560.615
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Basically, if we talk about the color machine, then basically in the color machine, we have the biggest issue of copy sir quality, if there is moisture on our dump, then our output will not be of proper quality, for this, first of all, if we are installing a color machine, then first of all, there is one thing for the color machine.",
+    "startTime": 2560.675,
+    "endTime": 2596.98
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "What's the problem with print quality?",
+    "startTime": 2596.98,
+    "endTime": 2600.595
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Good in print quality sir, in this, our blur which is images which is of blur type, if the moisture comes on top of the head drum, then our image will come, fade will come, blur will come and secondly, there is also the issue of paper jamming, if there is moisture on paper, then also the issue of jamming.",
+    "startTime": 2600.595,
+    "endTime": 2618.8
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "It'll be alright",
+    "startTime": 2619.66,
+    "endTime": 2620.24
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "So basically for this, the same as the company gave the Trump heater and the tree heater if silver is immune then",
+    "startTime": 2624.5552,
+    "endTime": 2632.735
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "hello",
+    "startTime": 2642.26,
+    "endTime": 2642.76
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes yes please sir, so comes the issue of print quality, paper jamming.",
+    "startTime": 2643.1401,
+    "endTime": 2649.7002
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes paper quality if we because of its temperature then basically our fixing assembly which is freezer roller if the temperature is high over there then our machine heat will be high.",
+    "startTime": 2649.7002,
+    "endTime": 2665.2349
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "No no I am talking about environmental heat I am not talking about internal heat please my word",
+    "startTime": 2666.76,
+    "endTime": 2671.32
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "GG environmental which is heat if it is high then our pcbs which are part which are fixed will run at this much temperature if the environment temperature is high then there will be a problem in the machine sir",
+    "startTime": 2671.32,
+    "endTime": 2691.7852
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "What's the problem",
+    "startTime": 2692.95,
+    "endTime": 2695.3699
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Basically if it had just happened to us that we had done a machine installation, they had done a machine installation in three sets, we had three sets, yes three sets, no, which was on the construction site, so it happened that there was such a high temperature, there was such a high temperature, there was such a high temperature, there was such a high temperature outside, there was such a high temperature, there was such a high temperature that our machine, our fixing assembly, which remains a temperature fix, that after so much, there will be heat.",
+    "startTime": 2697.19,
+    "endTime": 2738.865
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "It'll be cooling",
+    "startTime": 2738.865,
+    "endTime": 2739.615
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "So from that our problem came that from that our heater which is the fixing assembly which is the holder of the holder was burnt out sir so much of the heat was melted down the holder was melted down sir so from there we gave the machine we gave them a recording that here we are not able to run the machine here or here you have to make it ac all these things you have to make an environmental condition for it.",
+    "startTime": 2739.615,
+    "endTime": 2769.655
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Ok fine but you mean by color what is color?",
+    "startTime": 2770.0,
+    "endTime": 2775.1401
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "is basically color so our one which is rgb is red green",
+    "startTime": 2777.6802,
+    "endTime": 2785.9248
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "blue, which is",
+    "startTime": 2789.585,
+    "endTime": 2790.785
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Our cyanminta is yellow black so rgb works on rgb this is what our basically what is our rgb makes 1. 6. 7 some million colors 1. 66. 0. 7 some millions and our cyan cm by our 1. 6000 makes some color.",
+    "startTime": 2790.785,
+    "endTime": 2823.355
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "how to make red color",
+    "startTime": 2826.56,
+    "endTime": 2828.1
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "red color red color sir let me draw a diagram what can I do",
+    "startTime": 2828.56,
+    "endTime": 2835.44
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "No, I'm not one",
+    "startTime": 2835.44,
+    "endTime": 2835.76
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Diagram ji sir red will be the color our magenta and yellow toner will be the red color.",
+    "startTime": 2835.76,
+    "endTime": 3009.31
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok rgb show me the diagram as well man how did you make it",
+    "startTime": 3010.6501,
+    "endTime": 3016.2349
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "No, no, I didn't make that diagram either, I just wrote rgbcmy on a piece of paper.",
+    "startTime": 3017.015,
+    "endTime": 3024.555
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "how to make ok and green color",
+    "startTime": 3025.095,
+    "endTime": 3027.9949
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Green will become sir, our green will become our migenta.",
+    "startTime": 3029.82,
+    "endTime": 3035.52
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "migenta will llo ishan l0sin",
+    "startTime": 3036.86,
+    "endTime": 3047.7969
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Okay, I have a question for you.",
+    "startTime": 3048.865,
+    "endTime": 3051.585
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "G G",
+    "startTime": 3051.585,
+    "endTime": 3052.065
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "As you can also make this print, on top of that, it will be a little clearer for more understanding.",
+    "startTime": 3052.065,
+    "endTime": 3057.0
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "G G",
+    "startTime": 3057.32,
+    "endTime": 3057.48
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Create a box",
+    "startTime": 3057.48,
+    "endTime": 3058.38
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Lo Ji Ji",
+    "startTime": 3058.76,
+    "endTime": 3059.12
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Is it not",
+    "startTime": 3059.12,
+    "endTime": 3059.4
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Assume a print box that this print has come out of your machine from the color machine okay, so make four patterns in it, one in white, one in magenta, one in yellow, one in black, okay, four or four boxes as a print, our four patterns have come out of the machine or not.",
+    "startTime": 3059.4,
+    "endTime": 3075.375
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "G G",
+    "startTime": 3075.375,
+    "endTime": 3075.775
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes, there is a line coming, a disty black line is coming, disty line is coming, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.",
+    "startTime": 3075.775,
+    "endTime": 3095.5598
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes",
+    "startTime": 3095.5598,
+    "endTime": 3095.72
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes, so",
+    "startTime": 3095.72,
+    "endTime": 3096.0398
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "On that also, that line is coming. Destiny line is black. Can't speak. Destiny C line is coming in all four colors. So what could be the reason?",
+    "startTime": 3096.0398,
+    "endTime": 3103.305
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "If I mean this type of thing that sir that a our paper has come out is it that which",
+    "startTime": 3106.805,
+    "endTime": 3112.8901
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "This pattern you have made like that, but they come in the print pattern throughout the print, no, as you have got the idea, we have taken out of the pattern, yes, the patterns have come, yellow, magenta, cyan, black, all the four color patterns have come, yes, one mark, one magenta strip has come and then yellow, no, four such patterns have come, so there is a line all around, dusty line, black line.",
+    "startTime": 3113.11,
+    "endTime": 3131.855
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes yes",
+    "startTime": 3132.155,
+    "endTime": 3132.895
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So what could be the reason that she is also coming in the non print area that means white means all over the page you can see this thing.",
+    "startTime": 3132.955,
+    "endTime": 3139.775
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "If something like this, if something like this is our print, if anyone has come out, if all the four patterns have come out, if there is a lining in the beach, then we can check for it.",
+    "startTime": 3143.09,
+    "endTime": 3164.765
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Coming in all four colors, I'm clearing you out again.",
+    "startTime": 3164.765,
+    "endTime": 3167.7249
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes yes",
+    "startTime": 3167.7249,
+    "endTime": 3168.545
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "In all 4 colors.",
+    "startTime": 3169.645,
+    "endTime": 3170.865
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "One second sir I will make a diagram once you give me a little bit of it this is our paper sir let me assume this is my paper this is our four pattern in the four pattern means where is the line on the middle beach?",
+    "startTime": 3172.9,
+    "endTime": 3195.295
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Beach in the direction of Peding",
+    "startTime": 3195.295,
+    "endTime": 3197.075
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Good beaches let's say the line is like this.",
+    "startTime": 3197.24,
+    "endTime": 3200.7
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "There is such a line, it is also on paper, yes, yes, so what could be the reason that all four came in color?",
+    "startTime": 3200.76,
+    "endTime": 3209.16
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes yes",
+    "startTime": 3209.16,
+    "endTime": 3209.8198
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "If a single black line is appearing on our paper if",
+    "startTime": 3213.825,
+    "endTime": 3219.365
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So the desty line can also be called black no it is not black dusty black line.",
+    "startTime": 3221.0251,
+    "endTime": 3226.085
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Sorry if there's some lining coming up, sir.",
+    "startTime": 3230.8699,
+    "endTime": 3239.9348
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "There was a second call coming that if there is a line coming in the beach, then for this, if there is a line coming in the beach, then for this, if there is a line coming in all four, then it cannot be the fault of the drum.",
+    "startTime": 3239.9348,
+    "endTime": 3285.77
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "We can check for this.",
+    "startTime": 3285.77,
+    "endTime": 3287.31
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Because if there is some lining of it b belt, if there is anything in the beach, then it will make a lining on the entire paper, because all the four drums cannot be damaged.",
+    "startTime": 3289.77,
+    "endTime": 3310.72
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "What will happen in itbp?",
+    "startTime": 3310.78,
+    "endTime": 3311.84
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "One second sir, I can't hear your voice.",
+    "startTime": 3312.06,
+    "endTime": 3314.8
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "What will happen in itbp?",
+    "startTime": 3316.46,
+    "endTime": 3317.68
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "hello",
+    "startTime": 3326.185,
+    "endTime": 3326.685
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "yeah yeah what happens in itb",
+    "startTime": 3327.705,
+    "endTime": 3329.8052
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "For the icub belt on the itb belt so sir can forget a lot of things that if anything scratches if it gets some scratches on the belt.",
+    "startTime": 3332.3452,
+    "endTime": 3341.1199
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Scratches will result in a black line.",
+    "startTime": 3342.94,
+    "endTime": 3344.24
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Not black from scratches Black line from scratches Black line will not come, it will continue to make a dot in it.",
+    "startTime": 3345.66,
+    "endTime": 3350.375
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "This is the problem I told you about the line.",
+    "startTime": 3350.835,
+    "endTime": 3352.755
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Okay, well, for the black line, we can have this is our machine, lining up all four drums, if it's coming from all four drums, that paper will go, then first we transfer.",
+    "startTime": 3352.755,
+    "endTime": 3371.6501
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "The transfer of will go through our transfer of will go through our",
+    "startTime": 3372.35,
+    "endTime": 3381.1648
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Things are coming to the dump line means basically it is we who are talking about our normal machine or our sir.",
+    "startTime": 3390.9048,
+    "endTime": 3409.03
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes yes absolutely",
+    "startTime": 3409.395,
+    "endTime": 3410.5151
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "G G",
+    "startTime": 3410.5151,
+    "endTime": 3411.175
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Ok so any 5 issues that you have faced, you have gone and fixed on the machine, now recently, now you want to go directly to the customer or go to your junior first, if not from them, then only you want, then the work profile is of that type.",
+    "startTime": 3414.195,
+    "endTime": 3431.7302
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Sir, for this, it means that the problem comes, so the problem if we have an engineer who",
+    "startTime": 3432.4302,
+    "endTime": 3440.595
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "I want to know the same thing as if you have six engineers, six engineers got six calls.",
+    "startTime": 3441.295,
+    "endTime": 3445.935
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "G G",
+    "startTime": 3445.935,
+    "endTime": 3446.4949
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "And on the seventh you get seven more calls, so on the sixth call the engineers are already gone, on the seventh call people are there, so you will go on the seventh call or someone else will go there for free.",
+    "startTime": 3446.4949,
+    "endTime": 3454.19
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "No no sir if we mean here it is not that there are six calls six engineers if six are on call if the seventh call has come then I will visit there sir",
+    "startTime": 3454.19,
+    "endTime": 3464.77
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Ok that engineer will not go free you will go to that call",
+    "startTime": 3466.5251,
+    "endTime": 3471.745
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Sir that customer we see what is the emergency to the customer if we say that sir engineer is on call from there free will reach you in half an hour but if the customer himself is feeling that no sir his work is very emergency I will give him service immediately his work will stop then sir will have to go",
+    "startTime": 3472.205,
+    "endTime": 3496.495
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Also",
+    "startTime": 3496.5151,
+    "endTime": 3497.0151
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "That is, I will not wait for our engineer to go there again and arrive an hour later. If I can, I will go and do it.",
+    "startTime": 3497.0352,
+    "endTime": 3505.695
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So how many times a month does this happen?",
+    "startTime": 3506.3152,
+    "endTime": 3508.5752
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Sir, it means that if our engineer has gone, what is the problem, if he has not been able to sort out the problem, then I will go, that means he will go with him, then I will go with him, and such a problem, basically, if I have to go alone, then this sir, basically, there is no such timing.",
+    "startTime": 3509.115,
+    "endTime": 3548.32
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So tell me any five problems that you found difficult that took time to solve and this was the solution, this was the problem.",
+    "startTime": 3552.565,
+    "endTime": 3563.205
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes sir, this same thing happened to me once, our customers are here, we have installed a black and white machine, I am talking about a black and white machine.",
+    "startTime": 3563.205,
+    "endTime": 3575.5
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "The more you say about the color, the better it will be for me behind you.",
+    "startTime": 3576.04,
+    "endTime": 3578.92
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Well, there was a customer of G color, so what used to happen was that if the customer used to print out a hundred printouts, he gave them in a 4 size, then it used to be that those of us who used to come to page one on a 4 size back paper after 50 or 50 prints came out, when the machine that used to do graduation, when our page was made, which used to do color matching, it used to come to patch one, it used to come to our back side, after about 50 prints, if it came to the front side, it used to come to the back side of page one, then there was a lot of sir activity for him, so I did for him, I also checked the registration sensor, it also checked the belt.",
+    "startTime": 3578.92,
+    "endTime": 3646.435
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So what was the reason for what happened in the roller?",
+    "startTime": 3646.895,
+    "endTime": 3649.155
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "The transfer ruler was on the transfer roller, which was on the itbp belt, which made the page that rotated, which was fixed on the transfer roller, which was fixed on the transfer roller that was in the door.",
+    "startTime": 3650.335,
+    "endTime": 3662.5098
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Repeat again",
+    "startTime": 3664.65,
+    "endTime": 3666.0298
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "The itbp belt color which used to mean that as soon as we have given fifty printouts, after taking out fifty printouts, the machine automatically does graduation, color matching, auto auto adjust creation, so what happens at that time is that as soon as the machine is doing auto adjust graduation after fifty papers and the page that moves around on the itbp belt for matching, then that page used to go over our transfer ruler and as soon as 51 after fifty papers, the paper that comes out in fifty one, then the back side used to be sent by making that page.",
+    "startTime": 3666.735,
+    "endTime": 3704.205
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So why did it come out on the back side?",
+    "startTime": 3704.825,
+    "endTime": 3706.7651
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Because our paper which used to go like this which is going like our paper, I will show you this that our paper which used to go, which used to be our door, the transfer roller used to touch here and the paper which used to go straight here, so the transfer roller used to touch here on the back side, so here on the back side, here on the back side, here on both sides.",
+    "startTime": 3707.41,
+    "endTime": 3729.9849
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "I want to know if the printing is happening on your front side or how the patch was printed on the back side.",
+    "startTime": 3730.525,
+    "endTime": 3736.1
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "No no that would have been sir that is transfer roll no that is door in door yes yes",
+    "startTime": 3736.1,
+    "endTime": 3743.56
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "You said at the door.",
+    "startTime": 3744.02,
+    "endTime": 3745.62
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Which is our door side door which we close which is where our fixing assembly all the things are engaged dor means I talk about the right door I am talking about our model double 5 3 pass ka right door I was the transfer ruler the drum which was in the itbp belt and itbp belt beach paper one side front side itbp belt back side transfer ruler used to press that so whenever that paper came out which was blank which was blank which was back side.",
+    "startTime": 3745.62,
+    "endTime": 3780.355
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "This transfer roller is then mounted inside the avt.",
+    "startTime": 3780.355,
+    "endTime": 3782.855
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "No, this is all that remains in our door, a secondary transfer roller that remains of the form type transfer roller.",
+    "startTime": 3783.155,
+    "endTime": 3789.415
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Okay, so he wasn't cleaning.",
+    "startTime": 3790.68,
+    "endTime": 3793.8
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Sir, he was not being able to clean, he used to fix on him, he used to fix page.",
+    "startTime": 3793.8,
+    "endTime": 3798.44
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Why couldn't he be clean?",
+    "startTime": 3798.44,
+    "endTime": 3800.3
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Basically what we meant for that I also talked about the help desk canon for that they told me that our transfer ruler that the machine had run about twelve lakhs so they said that the transfer ruler that is your life that is life.",
+    "startTime": 3801.24,
+    "endTime": 3821.86
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "It has been completed",
+    "startTime": 3821.9202,
+    "endTime": 3823.54
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "So for that what we used to do was that if I cleaned that transfer roller with a light wet cloth, then it used to run for some time up to a thousand two thousand copies, then that problem did not come, after that we have done troubleshooting on that machine for about a month.",
+    "startTime": 3823.6,
+    "endTime": 3844.435
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "How the diagnosis was made.",
+    "startTime": 3845.7102,
+    "endTime": 3848.77
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Diagnose sir this lastly because the transfer holder was never noticed when creating a page in it from the back because",
+    "startTime": 3849.07,
+    "endTime": 3859.115
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "It used to be on the side it was ok",
+    "startTime": 3862.295,
+    "endTime": 3863.675
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Then for that, we got the new part changed, the machine has run almost now, that is, four or four million has run after that, but that problem has not been repeated yet.",
+    "startTime": 3864.935,
+    "endTime": 3874.11
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok next let me know any 5 any 5 you can say yes share with you",
+    "startTime": 3874.9102,
+    "endTime": 3880.27
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "GG and the other one so our second one was that we mean our engineer in the office so he was coming to the machine error code was coming to the machine so he went and cleared the dc controller of the machine.",
+    "startTime": 3880.27,
+    "endTime": 3901.825
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Okay, it happens.",
+    "startTime": 3902.87,
+    "endTime": 3904.07
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "dc control dc d means whatever pc remains in the machine main controller dc controller which is dc current whatever part is going to the hardware uses dc controller in the machine so it cleared the dc controller then after clearing the dc controller the value of the machine which was color matching value page registration value was all mismatched ok.",
+    "startTime": 3904.07,
+    "endTime": 3969.1099
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So how do you know if the problem is due to clearance or",
+    "startTime": 3971.41,
+    "endTime": 3976.3098
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "No because I mean I did the hardware activity means not much I did not do the hardware activity but what I did was whenever we do anything the machine clears all or resets then we take a backup of that sticker value or then we take a backup of the dc controller main controller first we take a backup of the main controller then we clear it then it did not take a backup it did clear it directly.",
+    "startTime": 3978.175,
+    "endTime": 4069.375
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok",
+    "startTime": 4071.435,
+    "endTime": 4071.755
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "For that we did a terminal check of the machine it also belt check we did a development check transfer buying all its hpt buying check what is happening one is not charging the paper why is this happening this paper is not charging yaar our it also belt is not getting charging development charging is not getting dump charging is getting everything checked for that I took almost ten days for that sir but the problem that came out was sir our paper problem came out in that sir",
+    "startTime": 4071.755,
+    "endTime": 4103.605
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "How to",
+    "startTime": 4104.385,
+    "endTime": 4104.885
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "What used to happen was that the paper that the user had, the paper that the user had, the paper that they stored was in a very moist place and that paper was 2021, the paper was two thousand twenty-one, and the store area that they had at the same time was very moist, so they kept it there and that problem was found out that what we used to do was that for any one test, we used to keep a document, we used to take out about twenty copies of it, we used to check it, how after five copies, gradually a light was turned on, until about 20 copies, it became completely light.",
+    "startTime": 4105.7197,
+    "endTime": 4176.87
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Okay, the question is over.",
+    "startTime": 4177.65,
+    "endTime": 4179.51
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "So that problem took close to fifteen days to catch up sir so for that because we didn't pay attention to the paper so much and the paper that was jk's so we didn't even speak for jk that's a bad paper",
+    "startTime": 4180.085,
+    "endTime": 4191.205
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "The copy was lighting up like it was",
+    "startTime": 4191.205,
+    "endTime": 4192.645
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes, the copy used to be light, then for that we took the paper separately, we continued to take about five hundred copies, no problem came in any paper on any print.",
+    "startTime": 4192.645,
+    "endTime": 4204.18
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok last",
+    "startTime": 4207.2803,
+    "endTime": 4208.1
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "And one problem was coming in our color machine, which problem was happening in the color machine, one problem was coming in our color machine, the problem of color mismatching was coming in, sir, the letters which used to be double letters, like I wrote development, then development used to be double color, it used to be over lapping type over that also.",
+    "startTime": 4208.625,
+    "endTime": 4235.57
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok",
+    "startTime": 4236.35,
+    "endTime": 4236.85
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "So, for that, first of all, I have to check our page sensor registration assembly, which I have cleaned for color matching.",
+    "startTime": 4238.575,
+    "endTime": 4287.82
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yeah yeah yeah it's coming",
+    "startTime": 4288.12,
+    "endTime": 4289.98
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "The color of it was color mismatching then it was changed, so for that again we cross-checked the itb belt, because the cross-check the itb belt, we cross-checked the other one, then the proper problem was sorted out, then I opened the belt on it, sir, I saw the belt on it, the transfer roller inside it, there was a roller mismatch in the belt.",
+    "startTime": 4291.32,
+    "endTime": 4319.71
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "How to",
+    "startTime": 4322.075,
+    "endTime": 4322.575
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Which is the proper one which is fitting on both sides which means the transfer roller then it moves from one side to where it gets stuck in the bearing, from there it moved to the slightly worn side of the bearing, sir the plastic part remains or it was worn out, so that proper one when itb belt rotates, that proper belt jerks up and down slightly, I then basically then I chain the part which was damaged from where, so that problem has not come yet, then ok next and in the color machine and in the color machine where I have done the work, this is basically our recent case in the color machine.",
+    "startTime": 4323.035,
+    "endTime": 4441.205
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok",
+    "startTime": 4441.665,
+    "endTime": 4442.165
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "So, as soon as he started the building, the voltage was completely down, as soon as the building was closed, the voltage was very high ok and the customer did not inform this thing sir I mean in the first second third round I went.",
+    "startTime": 4442.8647,
+    "endTime": 4458.28
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "I'll put someone in it then you",
+    "startTime": 4458.28,
+    "endTime": 4459.82
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "No, sir, he was not on the line.",
+    "startTime": 4460.12,
+    "endTime": 4462.3
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So don't use ups before you mean inspiration.",
+    "startTime": 4463.395,
+    "endTime": 4466.135
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Sir, we basically use stabilizer, stabilizer means we are not able to suggest to the customer that you take the ups, stabilizer we provide together.",
+    "startTime": 4466.5146,
+    "endTime": 4477.8
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Good G",
+    "startTime": 4479.0,
+    "endTime": 4479.9
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Basically that's our voltage.",
+    "startTime": 4482.5996,
+    "endTime": 4484.1196
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "If the issue of voltage came out, then what do you understand by earthing, what is the reason for earthing, etc., what is the importance in the machine",
+    "startTime": 4484.1196,
+    "endTime": 4491.02
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Earthing is basically what we do because earthing if we mean something like lightning, flashing, clouds, if it is proper earthing in the machine, it does not damage our party.",
+    "startTime": 4491.745,
+    "endTime": 4506.005
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "How much of it should be",
+    "startTime": 4509.1104,
+    "endTime": 4510.41
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "The meaning of the meaning should be approximate",
+    "startTime": 4510.43,
+    "endTime": 4513.1304
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Earthing I was checking on there.",
+    "startTime": 4513.95,
+    "endTime": 4517.0503
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Earthing check sir I do not know the exact meaning of earthing I basically we check it that what remains our phase remains our phase that is we another one which is earthing. It stays neutral and we'll see if it's getting the proper voltage and check that thing because there's no earthing here.",
+    "startTime": 4520.845,
+    "endTime": 4541.7896
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "If it is earthy and more then",
+    "startTime": 4543.05,
+    "endTime": 4545.15
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "So sir, let's get him checked then.",
+    "startTime": 4546.545,
+    "endTime": 4548.565
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "How do you check how much voltage is over there?",
+    "startTime": 4549.025,
+    "endTime": 4552.3247
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Basically the voltage that comes into the machine if our two hundred and twenty then the machine needs to go up to two hundred and twenty two hundred and thirty two hundred and thirty five even if it is running if your voltage is going up to two hundred and forty-five two hundred and sixty.",
+    "startTime": 4552.545,
+    "endTime": 4567.14
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Did that face happen or am I asking you face has little to do with meaning.",
+    "startTime": 4568.48,
+    "endTime": 4573.415
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "G G",
+    "startTime": 4573.415,
+    "endTime": 4573.975
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So there's no need to leave.",
+    "startTime": 4573.975,
+    "endTime": 4575.575
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Gee Gee Earthing means so much to me I don't know exactly how much Earthing I should be",
+    "startTime": 4575.575,
+    "endTime": 4580.855
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "What do you mean by good customer satisfaction?",
+    "startTime": 4580.855,
+    "endTime": 4584.315
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Customer satisfaction is basically that sir if what is our relationship with the customer what is the relation, our customer to our customer we are giving service to him then our customer is satisfied with us or not that with our service we are giving service to him time to time, giving proper response to him or her what is our rte response time response time how much is our dt down time customer satisfaction means one thing.",
+    "startTime": 4586.27,
+    "endTime": 4645.5703
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "And even if everything is perfect, the customer is dissatisfied.",
+    "startTime": 4646.27,
+    "endTime": 4648.93
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Sir, if this is the case, then there will be some reason or the other, sir, our customer, if there is any problem, then we can ask him here.",
+    "startTime": 4650.19,
+    "endTime": 4661.435
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "How are you going to satisfy such a customer?",
+    "startTime": 4661.815,
+    "endTime": 4665.045
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Sir basically if what we do in the field like if there are some customers or if there is a proper machine, if all our things are coming in service time to time, all the things are there, still there are some people here who will forcefully say that the service is not good, it is not there, then basically sir we go to them and talk to them that sir, if you are feeling something like this, tell us what is the problem, what is the problem, what is the problem that you are having, we will sort it out, what is the problem that you are feeling, what are the problems that you are having, we will talk to them, first of all, whatever they say, we have to stand and listen to them.",
+    "startTime": 4667.52,
+    "endTime": 4723.9
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Ok what do you think of good preventive maintenance like PM etc. What happens how do they do it why do they do it.",
+    "startTime": 4724.76,
+    "endTime": 4730.2
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Preventive maintenance actually what we people do is pm which is pm calls preventive maintenance that is the company which has decided the life of a party which is our part which is any part of us like any of our ruler is taking out fifty thousand copies a roller if we machine if we started today we started the machine went from our ten to fifteen thousand copies about ten thousand copies out of the print now ten thousand copies out of the machine if it has taken out then the dusting in the machine based owner dust it will all go if the customer is continuing the machine then we call it at one pm for that prevention and maintenance how much of all the parts we have gone through how much of the cleaning will be done now how much of the cleaning will be done inside.",
+    "startTime": 4730.2,
+    "endTime": 4817.145
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "What is the importance of filters?",
+    "startTime": 4817.945,
+    "endTime": 4819.865
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes sir",
+    "startTime": 4819.865,
+    "endTime": 4820.745
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Why filters matter How important are filters in this thing",
+    "startTime": 4820.745,
+    "endTime": 4825.165
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "The filter that is on the filter machine in the machine that is basically the filter that is on the machine that is used for dusting that the dust does not go inside the machine because basically our machine which is in two or three models is using this filter of the filter, no other filter is used mostly.",
+    "startTime": 4825.305,
+    "endTime": 4845.7803
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "The importance of the filter in the machine",
+    "startTime": 4846.785,
+    "endTime": 4848.705
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes sir",
+    "startTime": 4848.705,
+    "endTime": 4849.665
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "By the way, the filter is important in the machine",
+    "startTime": 4849.665,
+    "endTime": 4852.245
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "No sir because our machine which is required the most which is bad maybe our part is bad because of dust dusting, if we can reduce the dust as much as we can save it then the life of the machine will increase that much so basically a pm call we could have done because our basic models which come to us do not have a filter like that then we go to them the dust that is inside the dust that is part of the dust that is going on to them and we go and clean them and use the filter so that the dusting that is in our atmosphere that is flying does not go inside our machine.",
+    "startTime": 4852.305,
+    "endTime": 4890.63
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Ok good code our support so what is and why is it important code our support",
+    "startTime": 4891.4297,
+    "endTime": 4897.29
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "I don't understand this, sir.",
+    "startTime": 4898.07,
+    "endTime": 4899.9097
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Code hours means that your working hours are 9 to 6.",
+    "startTime": 4899.9097,
+    "endTime": 4905.285
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "G G",
+    "startTime": 4905.365,
+    "endTime": 4905.685
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "And at seven o'clock you get a call from a customer.",
+    "startTime": 4905.685,
+    "endTime": 4908.4053
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "G G",
+    "startTime": 4908.4053,
+    "endTime": 4908.8853
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "That I have so much issue in my machine and this call you have to attend because this machine is off and down and I have work so in that case what remains what do you mean what are the priorities in 4 hours we attend the calls and or understanding the priorities of the customers means what should be the action plan",
+    "startTime": 4908.8853,
+    "endTime": 4926.1997
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "No no sir us first of all if it is like our portal which runs till 6.30 pm, our office stays till 6.30 pm, many customers call many times, we lock the call at 6.30 pm, then we will call him after that we will ask him that sir what is your problem, is it important or not, is it above talking to the customer, is it necessary for us to go, customer needs service, because if we do not provide service, then how much will they suffer.",
+    "startTime": 4926.1997,
+    "endTime": 5023.6353
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok",
+    "startTime": 5023.6353,
+    "endTime": 5024.1353
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "That sir depends on the customer, sir, what is the importance of the customer, if we do not go, how much can the customer lose, sir, we carry that thing, sir, all those things.",
+    "startTime": 5026.06,
+    "endTime": 5041.925
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Okay and what do you understand by networking what is networking that is computer networking or LAN cables etcetera.",
+    "startTime": 5043.505,
+    "endTime": 5052.885
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Basically what is the demand of our customer which is related to the network which is related to our machines basically one is the demand that the machine is called by our customer connect the machine to the lens and give the printout from all our user lenses.",
+    "startTime": 5054.21,
+    "endTime": 5102.9146
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Ok right right",
+    "startTime": 5103.6147,
+    "endTime": 5104.755
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes, we configure it for the customer.",
+    "startTime": 5105.0547,
+    "endTime": 5107.875
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Well, how do you know what a conica miloid is?",
+    "startTime": 5109.3403,
+    "endTime": 5114.8003
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "No basically when I actually came to Sir when I joined here in the beginning what I saw in color is mostly in Bhopal that the color is where the machine is, cornica has no reverse machine, so I have asked many times to the customer, why I did not take sir canon from them, you are taking cornica, so customer means at that time I did not see the quality, what is the quality of cornica, I did not see the customer himself told me that the quality of cornica is better than that of canon.",
+    "startTime": 5115.8203,
+    "endTime": 5190.995
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok",
+    "startTime": 5192.34,
+    "endTime": 5192.84
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "G",
+    "startTime": 5193.3,
+    "endTime": 5193.8
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So now you know how to apply for a job in Nigam Ulta you or someone you know means how did you find out that it is a job in Nigam Ulta for Gwalior location.",
+    "startTime": 5196.9,
+    "endTime": 5206.455
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "No, I actually got a call from Kajal ma'am.",
+    "startTime": 5206.455,
+    "endTime": 5211.755
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So you must have applied either somewhere meaning job dot com or how",
+    "startTime": 5212.6953,
+    "endTime": 5216.795
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes that was the job on dot com sir my good",
+    "startTime": 5217.095,
+    "endTime": 5220.96
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "G G",
+    "startTime": 5221.34,
+    "endTime": 5223.5796
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Okay, so you have uploaded a profile on naukri dot com.",
+    "startTime": 5223.5796,
+    "endTime": 5226.46
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "G G",
+    "startTime": 5226.46,
+    "endTime": 5227.02
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes, through your company means representative, you have got that.",
+    "startTime": 5227.02,
+    "endTime": 5234.2197
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "G G G",
+    "startTime": 5234.2197,
+    "endTime": 5235.155
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok do you know someone who works in kunika means who works in kunika you mean something close someone is sibling or anything means someone seems to work someone is in a corner someone like that",
+    "startTime": 5238.9746,
+    "endTime": 5248.835
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "In Konica Nolta sir basically we have a guy who has just joined who was our first ever Aarya.",
+    "startTime": 5249.41,
+    "endTime": 5260.87
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So, where did he join?",
+    "startTime": 5261.685,
+    "endTime": 5263.7046
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "He has probably joined Gujarat sir good.",
+    "startTime": 5263.7646,
+    "endTime": 5266.425
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes what he used to do engineer you mean how much you are our",
+    "startTime": 5267.525,
+    "endTime": 5272.645
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "We had service engineer sir then after that he did interest interest methodex join he did q then after qcra join qcra then he did here.",
+    "startTime": 5272.645,
+    "endTime": 5283.18
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "good",
+    "startTime": 5284.2803,
+    "endTime": 5284.7803
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "G G",
+    "startTime": 5285.0,
+    "endTime": 5285.74
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So why do you want to leave now, which is where Aditi wants to leave the firm you are working in?",
+    "startTime": 5286.8853,
+    "endTime": 5294.585
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Basically there is only one reason to leave the growth that is our growth because if basically I was still a bachelor, I am actually married, now there is a marriage, then the family will grow, then sir, by the way, we also need growth, then we also need increment, so if all these things are not possible here, then we have to search for another option sir.",
+    "startTime": 5296.325,
+    "endTime": 5324.4253
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So you will shift with family in Gwalior.",
+    "startTime": 5324.4253,
+    "endTime": 5327.245
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes sir",
+    "startTime": 5327.705,
+    "endTime": 5328.4453
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Who's in your family?",
+    "startTime": 5329.26,
+    "endTime": 5331.52
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "It's just me and my wife, sir.",
+    "startTime": 5331.9,
+    "endTime": 5333.76
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Not the father or mother, etc.",
+    "startTime": 5334.1396,
+    "endTime": 5335.9
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Well yes no no actually what is my proper place which seems to be my Chhattarpur district sir my Chhattarpur district this something means near Gwalior maybe this Gwalior is one hundred and twenty kilometers from there near Chattarpur.",
+    "startTime": 5335.9,
+    "endTime": 5353.045
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "all right all right",
+    "startTime": 5353.3447,
+    "endTime": 5354.3047
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Yes yes",
+    "startTime": 5354.3047,
+    "endTime": 5354.965
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "So Gwalior is why you want to know that it will be close to home and",
+    "startTime": 5356.625,
+    "endTime": 5361.14
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "Yes, basically, Bhopal also falls in the same category and Gwalior also falls in the same category from my house. Both of them study equally.",
+    "startTime": 5361.92,
+    "endTime": 5369.7803
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Ok G",
+    "startTime": 5370.355,
+    "endTime": 5372.295
+  },
+  {
+    "speaker": "spk_0",
+    "dialogue": "And if the rest are shifting to Gwalior, then both the wife and I mean, both of them will be together now.",
+    "startTime": 5376.6753,
+    "endTime": 5386.59
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "ok jee",
+    "startTime": 5390.33,
+    "endTime": 5392.89
+  },
+  {
+    "speaker": "spk_1",
+    "dialogue": "Ok Vikas ji thank you thank you thank you thank you thank you thank you thank you so much for your time thank you so much ok sir thank you bye bye thank you",
+    "startTime": 5392.89,
+    "endTime": 5405.205
+  }
+]
